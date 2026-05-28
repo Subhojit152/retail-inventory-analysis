@@ -1,10 +1,3 @@
-# retail-inventory-analysis
-SQL project for retail inventory & supply chain analysis
+# Retail-Inventory-Supply-Chain-Analysis
+SQL project analyzing retail inventory, forecasting accuracy, overstock risks, and sales performance.
 
-Project overview
-Dataset description
-Objectives
-SQL concepts used
-Key business questions
-Major insights
-Recommendations
